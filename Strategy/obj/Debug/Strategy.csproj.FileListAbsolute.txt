@@ -1,0 +1,7 @@
+D:\3. Projects\PatternsLearn\Strategy\bin\Debug\Strategy.exe.config
+D:\3. Projects\PatternsLearn\Strategy\bin\Debug\Strategy.exe
+D:\3. Projects\PatternsLearn\Strategy\bin\Debug\Strategy.pdb
+D:\3. Projects\PatternsLearn\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\3. Projects\PatternsLearn\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\3. Projects\PatternsLearn\Strategy\obj\Debug\Strategy.exe
+D:\3. Projects\PatternsLearn\Strategy\obj\Debug\Strategy.pdb
